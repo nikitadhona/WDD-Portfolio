@@ -1,0 +1,52 @@
+nav li{
+    float: left;
+    margin: 10px;
+    list-style: none;
+}
+nav a,footer a{
+    text-decoration: none;
+    color: #9a1750;;
+}
+#footer{
+    text-align: center;
+}
+header{
+    margin: auto;
+}
+#nav,#home{
+    background-color:#e3afbc;
+}
+nav ul,#footer{
+    overflow: auto;
+}
+a:hover{
+    color: #b78894;
+}
+h1,h2,h3{
+    color: #9a1750;
+    font-family: 'Poppins', cursive;
+}
+#fullhead, #footer{
+    background-color:#e3afbc;
+}
+#footer li{
+    list-style: none;
+    float: inherit;
+    text-align: center;
+}
+button, button a{
+    background-color:#9a1750;
+    color: #e3afbc;
+    text-decoration: none;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    margin: 5px;
+    padding: 5px;
+}
+#skill{
+    text-align: center;
+}
+body{
+    margin: 0%;
+}
